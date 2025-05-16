@@ -1,2 +1,0 @@
-# Smart_Retail_AI
-hfehfierbfiuer
