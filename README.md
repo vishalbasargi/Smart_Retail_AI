@@ -1,1 +1,1 @@
-# Smart_Retail_AI
+# Smart_Retail_AI : for shop Application
