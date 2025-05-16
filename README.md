@@ -1,2 +1,2 @@
 # Smart_Retail_AI
-hey people
+hey peo
