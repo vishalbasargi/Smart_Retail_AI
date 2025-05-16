@@ -1,2 +1,3 @@
-# Smart_Retail_AI
-hfehfierbfiuer
+
+# Smart_Retail_AI : for shop Application
+
